@@ -2,4 +2,6 @@
 
 Cho's personal website for career and projects
 
-*Cho*
+<strong>Cho</strong>
+
+
